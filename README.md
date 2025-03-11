@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-http://deepolicy.cn
+http://deepolicy.com
 
 Create the robot's brain. 
